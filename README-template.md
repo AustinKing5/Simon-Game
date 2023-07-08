@@ -49,8 +49,8 @@ Users should be able to:
 
 ### Links
 
-- Repository URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Repository URL: [Simon Game Repository URL](https://github.com/AustinKing5/Simon-Game/)
+- Live Site URL: [Simon Game live site URL](https://austinking5.github.io/Simon-Game/)
 
 ## My process
 
